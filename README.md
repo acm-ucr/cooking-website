@@ -13,7 +13,7 @@
 
 ## Figma
 
-[UCR Cooking Club Template Figma Design File](<[https://www.figma.com/](https://www.figma.com/design/pEBX9w6lMdcXojC6zeewxG/Spring--25--Cooking-Club?node-id=0-1&p=f&t=yW3h2IElAFYc15AD-0)>)
+[UCR Cooking Club Template Figma Design File](https://www.figma.com/design/pEBX9w6lMdcXojC6zeewxG/Spring--25--Cooking-Club?node-id=0-1&p=f)
 
 ## Node.js
 
