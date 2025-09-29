@@ -13,11 +13,11 @@
 
 ## Figma
 
-[ACM UCR Website Template Figma Design File](https://www.figma.com/)
+[UCR Cooking Club Template Figma Design File]([https://www.figma.com/](https://www.figma.com/design/pEBX9w6lMdcXojC6zeewxG/Spring--25--Cooking-Club?node-id=0-1&p=f&t=yW3h2IElAFYc15AD-0))
 
 ## Node.js
 
-ACM UCR Website Template runs on Node.js Version 20.10.0 and higher. Please ensure you have Node.js installed via the [official website](https://nodejs.org/en).
+UCR Cooking Club Website Template runs on Node.js Version 20.10.0 and higher. Please ensure you have Node.js installed via the [official website](https://nodejs.org/en).
 
 ## Next.js
 
