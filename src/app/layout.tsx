@@ -5,8 +5,9 @@ import { ReactQueryClientProvider } from "@/utils/react-query";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Cooking Website",
-  description: "Cooking Club @ UCR",
+  title: "UCR Cooking Club Website",
+  description:
+    "Website for the cooking club at University of California, Riverside",
 };
 
 type LayoutProps = {

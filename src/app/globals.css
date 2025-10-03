@@ -1,1 +1,13 @@
 @import "tailwindcss";
+
+@theme {
+  --color-cooking-green: #657000;
+  --color-cooking-cream-light: #eae4d5;
+  --color-cooking-cream-dark: #f5ecd5;
+  --color-cooking-brown-light: #ddb785;
+  --color-cooking-brown-dark: #925f1c;
+  --color-cooking-gray: #505050;
+
+  --font-cooking-main: "Albert Sans", sans-serif;
+  --font-cooking-secondary: "Inter", sans-serif;
+}
