@@ -11,7 +11,6 @@ const Example = (props: { text1: string; text2: string; text3: string }) => {
         </div>
       </div>
       {/* Hint: Add another box/div here similarly to line 4 */}
-      <div>Hello</div>
     </div>
   );
 };
