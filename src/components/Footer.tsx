@@ -11,7 +11,7 @@ const Footer = () => {
         <div className="flex h-1/64 w-full bg-black"></div>
       </div>
 
-      <div className="font-cooking-main text-cooking-gray mt-1/16 flex h-full w-full justify-center font-extralight">
+      <div className="font-cooking-main text-cooking-gray flex h-full w-full justify-center font-extralight">
         cooking club @ ucr
       </div>
     </div>
