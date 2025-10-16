@@ -11,7 +11,7 @@ const Home = () => {
           {Array.from({ length: PLACEHOLDER_COUNT }).map((_, index) => (
             <div
               key={index}
-              className="aspect-square rounded-xl border-4 border-[color:var(--color-cooking-green)] bg-[color:var(--color-cooking-cream-light)]"
+              className="aspect-square rounded-sm border-4 border-[color:var(--color-cooking-green)] bg-[color:var(--color-cooking-cream-light)]"
             />
           ))}
         </div>
