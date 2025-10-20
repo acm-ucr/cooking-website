@@ -1,5 +1,3 @@
-import { Icon } from "@iconify/react";
-
 const Footer = () => {
   return (
     <div className="flex h-1/8 w-screen flex-col items-center justify-center bg-gray-100">
