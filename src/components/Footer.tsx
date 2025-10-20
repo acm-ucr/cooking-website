@@ -1,11 +1,15 @@
+import { FaInstagram } from "react-icons/fa";
+import { FaDiscord } from "react-icons/fa";
+import { SiLinktree } from "react-icons/si";
+
 const Footer = () => {
   return (
     <div className="flex h-1/8 w-screen flex-col items-center justify-center bg-gray-100">
       <div className="flex h-full w-full flex-row items-center gap-6">
         <div className="flex h-1/64 w-full bg-black"></div>
-        {/* <Icon icon="ph:linktree-logo-bold" width="64" height="64" />
-        <Icon icon="mdi:instagram" width="64" height="64" />
-        <Icon icon="ic:baseline-discord" width="64" height="64" /> */}
+        <FaInstagram size={64} />
+        <SiLinktree size={64} />
+        <FaDiscord size={64} />
         <div className="flex h-1/64 w-full bg-black"></div>
       </div>
 
