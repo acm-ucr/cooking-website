@@ -1,5 +1,4 @@
 import Example from "@/components/example";
-import WhatWeOffer from "@/components/Landing/WhatWeOffer";
 
 const Home = () => {
   return (
